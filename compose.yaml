@@ -1,0 +1,7 @@
+﻿services:
+  webshop.api:
+    image: webshop.api
+    build:
+      context: .
+      dockerfile: WebShop.Api/Dockerfile
+

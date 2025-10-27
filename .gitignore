@@ -4,7 +4,7 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 *.log
-appsettings*.*
+appsettings.json
 .idea/
 *.DS_Store
 Migrations/
